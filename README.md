@@ -13,7 +13,7 @@ O **Extrator de Parâmetros Análise de Hemograma e Bioquímico** é uma ferrame
 
 ## Instruções de Uso
 
-1. Baixe o arquivo executável do software via GitHub [aqui](https://github.com/LeoMSgit/Extrator-de-Parametros-Analise-Hemograma-e-Bioquimico/releases/tag/release_1) ou o arquivo compactado via Google Drive [aqui](https://drive.google.com/file/d/1mNV_pVbjemwU5hE9FU-wkUrcsH7ghk-I/view?usp=sharing).
+1. Baixe o arquivo executável do software via GitHub [aqui](https://github.com/LeoMSgit/Extrator-de-Parametros-Analise-Hemograma-e-Bioquimico/releases/tag/release_2) ou o arquivo compactado via Google Drive [aqui](https://drive.google.com/file/d/1KJoWQ1pmojDkjbuWDafSpXSFYcjz5JKC/view?usp=sharing).
 
 2. **Extraia o programa:**
    - Utilize uma ferramente como WinRar para extrair o software.
