@@ -32,10 +32,14 @@ O **Extrator de Parâmetros Análise de Hemograma e Bioquímico** é uma ferrame
    - **Exemplo:**  
      `C:\Users\Usuario\Documents\ExamesPDF`
    
-5. **Processamento dos arquivos:**
+5. **Escolha o Modelo de Laudo:**
+   - Devido à diferentes modelos do PDF utilizados por diferentes laboratórios, resultados imprecisos podem ser encontrados caso um laudo PDF seja processado pelo modelo diferente do estabelecido na concepção do Software
+
+6. **Processamento dos arquivos:**
    - O programa irá automaticamente acessar todos os PDFs dentro da pasta especificada, extrair os valores de interesse e organizá-los no formato necessário.
 
-6. **Resultado do processamento:**
+
+7. **Resultado do processamento:**
    - O programa criará um arquivo Excel (`.xlsx`) com o nome da pasta que contém os arquivos PDF.
    - O arquivo Excel terá os seguintes campos:
      - **Coluna A:** Lista de parâmetros de exames
@@ -74,11 +78,11 @@ O **Extrator de Parâmetros Análise de Hemograma e Bioquímico** é uma ferrame
    ![Descrição da Imagem](https://i.imgur.com/YCoevYA.png)
 
 
-7. **Finalização:**
+8. **Finalização:**
    - Após o processamento, uma mensagem de sucesso será exibida no console e ele será encerrado automaticamente:
      - **Exemplo:** `"Arquivo Excel 'NomeDaPasta.xlsx' gerado com sucesso!"`
 
-8. **Localização do arquivo Excel:**
+9. **Localização do arquivo Excel:**
    - O arquivo Excel será salvo na mesma pasta onde está o programa executável, sob o nome da pasta que você especificou seguido por _resultados.
 
 ---
@@ -98,7 +102,7 @@ O **Extrator de Parâmetros Análise de Hemograma e Bioquímico** é uma ferrame
 ---
 
 ## **Apoio Técnico**
-Se houver qualquer dúvida ou problema com o programa, entre em contato com o suporte técnico através do e-mail **leoms-98@hotmail.com** ou no GitHub em **@leomsgit**.
+Se houver qualquer dúvida ou problema com o programa, entre em contato com o suporte técnico através do e-mail **leonardo@lmsdevs.com** ou no GitHub em **@leomsgit**.
 
 ---
 
@@ -106,7 +110,3 @@ Se houver qualquer dúvida ou problema com o programa, entre em contato com o su
 [Leonardo Miguel dos Santos](https://github.com/LeoMSgit)
 
 
-
-### **DISCLAIMER** 
-Devido ao modelo do PDF utilizado para análises e testes, resultados imprecisos podem ser encontrados caso a ordem dos parâmetros seja diferente da apresentada no Software: "ERITROCITOS", "HEMOGLOBINA", "HEMATÓCRITO", "V.C.M", "H.C.M", "C.H.C.M", "PLAQUETAS", "LEUCÓCITOS TOTAIS", "BASTONETES", "SEGMENTADOS", "LINFÓCITOS", "MONÓCITOS", "EOSINÓFILOS", "BASÓFILOS", "ALBUMINA", "BILIRRUBINA DIRETA", "BILIRRUBINA TOTAL", "CK", "CREATININA", "FOSFATASE ALCALINA", "GGT", "PROTEINA TOTAL", "AST", "ALT", "UREIA", "BILIRRUBINA INDIRETA"
-(Requer mais testes para validar a tentativa de resolução atual)
