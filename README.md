@@ -25,6 +25,8 @@ O **Extrator de Parâmetros Análise de Hemograma e Bioquímico** é uma ferrame
 3. **Abra o programa:**
    - Execute o arquivo `.exe` gerado. Uma janela do console será aberta, solicitando o caminho da pasta com os arquivos PDF.
 
+![](https://raw.githubusercontent.com/LeoMSgit/Extrator-de-Parametros-Analise-Hemograma-e-Bioquimico/refs/heads/main/Print/Screenshot_1.png)
+
 4. **Insira o caminho completo da pasta:**
    - No campo de entrada do console, insira o caminho completo da pasta onde estão localizados os arquivos PDF.
    - **Exemplo:**  
